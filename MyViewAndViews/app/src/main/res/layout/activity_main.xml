@@ -19,7 +19,8 @@
                 android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
                 android:scaleType="fitXY"
-                android:src="@drawable/pixel_google" />
+                android:src="@drawable/pixel_google"
+                android:contentDescription="@string/pixel_google_desc" />
 
             <TextView
                 style="@style/TextContent.Small.White"
@@ -131,16 +132,13 @@
 
             <TextView
                 style="@style/TextContent"
+                android:layout_marginTop="16dp"
                 android:layout_toEndOf="@+id/profile_image"
                 android:text="@string/my_name" />
         </RelativeLayout>
 
         <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="16dp"
-            android:layout_marginRight="16dp"
-            android:layout_marginBottom="16dp"
+            style="@style/ButtonGeneral"
             android:text="@string/buy" />
     </LinearLayout>
 </ScrollView>
