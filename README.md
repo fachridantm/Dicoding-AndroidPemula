@@ -1,2 +1,2 @@
 # Dicoding-AndroidPemula
-Repository untuk course Dicoding Belajar Android Pemula
+Repository course Dicoding Belajar Android Pemula
