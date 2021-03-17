@@ -13,6 +13,7 @@ import com.bumptech.glide.request.RequestOptions
 
 class CardViewHeroAdapter(private val listHero: ArrayList<Hero>) :
     RecyclerView.Adapter<CardViewHeroAdapter.CardViewHolder>() {
+
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CardViewHolder {
         val view: View =
             LayoutInflater.from(parent.context).inflate(R.layout.item_cardview_hero, parent, false)
