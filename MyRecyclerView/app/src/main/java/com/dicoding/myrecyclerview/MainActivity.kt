@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
         list.addAll(HeroesData.listData)
         showRecyclerList()
     }
+
     private fun showRecyclerList() {
         rvHeroes.layoutManager = LinearLayoutManager(this)
         val listHeroAdapter = ListHeroAdapter(list)
