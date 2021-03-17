@@ -12,7 +12,7 @@ import com.bumptech.glide.request.RequestOptions
 class ListHeroAdapter(val listHero: ArrayList<Hero>) :
     RecyclerView.Adapter<ListHeroAdapter.ListViewHolder>() {
 
-    override fun onCreateViewHolder(viewGroup: ViewGroup, i: Int): ListViewHolder {
+    override fun onCreateViewHolder(viewGroup: ViewGroup, viewType: Int): ListViewHolder {
         val view: View =
             LayoutInflater.from(viewGroup.context).inflate(R.layout.item_row_hero, viewGroup, false)
         return ListViewHolder(view)
