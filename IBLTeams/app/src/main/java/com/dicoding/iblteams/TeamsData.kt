@@ -15,106 +15,41 @@ object TeamsData {
         "Satya Wacana Saints Salatiga",
         "West Bandits Solo"
     )
-    private val teamManagement = arrayOf(
-        "Manajer Umum\t : Ferri Jufri\n" +
-                "Manajer\t : Leonardo Niki\n" +
-                "Kepala Pelatih\t : Rastafari Horongbala\n" +
-                "Asisten Pelatih\t : Harry Prayogo\n" +
-                "Asisten Pelatih\t : Ary Sapto Nugroho\n" +
-                "Ofisial\t : Sukamto\n" +
-                "Ofisial\t : Andreas Riada",
+    private val teamSosmed = arrayOf(
+        "Instagram\t : @hangtuah.basketball\n" +
+                "Twitter\t\t\t : @hangtuah.basketball",
 
-        "Manajer\t : Sigit Sugiantoro\n" +
-                "Asisten Manajer\t : Hoi Yi Heidy\n" +
-                "Pelatih\t : Alex Stefanosky\n" +
-                "Asisten Pelatih\t : I Gusti Rusta Wijaya\n" +
-                "Asisten Pelatih\t : I Gusti Ngurah Teguh\n" +
-                "Ofisial\t : Daniel Oktavianus\n" +
-                "Ofisial\t : Alfian Indra Yudha\n" +
-                "Ofisial\t : Yahya Saifudin",
+        "Instagram\t : @baliunitedfc\n" +
+                "Twitter\t\t\t : @baliutd\n" +
+                "Facebook\t : Official Bali United",
 
-        "Pemilik\t : dr. Edy Wibowo, Sp.M., M.PH\n" +
-                "Manajer\t : Dyah Ayu Pratiwi\n" +
-                "Kepala Pelatih\t : David Reynard Singleton\n" +
-                "Asisten Pelatih\t : Kartika Siti Aminah\n" +
-                "Ofisial\t : Masruri\n" +
-                "Ofisial\t : Fransisca Juniati\n" +
-                "Ofisial\t : Eri Ramadhan Ekaputra\n" +
-                "Ofisial\t : Laksyit Bayu Septagiri",
+        "Instagram\t : @Bimaperkasajgj\n" +
+                "Twitter\t\t\t : @BimaPerkasa_YK\n" +
+                "Facebook\t : Bima Perkasa",
 
-        "Manajer\t : Andy Poedjakesuma\n" +
-                "Pelatih\t : Youbel Sondakh\n" +
-                "Assisten Pelatih\t : Koko Heru Setyo Nugroho\n" +
-                "Assisten Pelatih\t : Andrie Ekayana Satya Sentosa\n" +
-                "Assisten Pelatih\t : Derry Drew\n" +
-                "Ofisial\t : Muslihudin \n" +
-                "Ofisial\t : Raul JR Parayno Romero\n" +
-                "Ofisial\t : Endang Mukhlisin ",
+        "Instagram\t : @official_timnasbasket",
 
-        "Presiden\t : Erick Herlangga\n" +
-                "Vice President\t : Joko Utomo\n" +
-                "Chief Financial Officer\t : Andreas\n" +
-                "Manajer\t :  Giovanni Andrea\n" +
-                "Kepala Pelatih\t : Andika Supriadi Saputra",
+        "Instagram\t : @teamlouvre\n" +
+                "Twitter\t\t\t : @teamlouvre\n" +
+                "Tiktok\t\t\t : @teamlouvre",
 
-        "Manajer\t : Yusuf Arlan Ruslim\n" +
-                "Kepala Pelatih\t : Antonius Ferry Rinaldo\n" +
-                "Asisten Pelatih\t : Antonius Joko Endratmo\n" +
-                "Asisten Pelatih\t : Agus Pamungkas Batbual\n" +
-                "Asisten Pelatih\t : Ruspin Gultom\n" +
-                "Ofisial\t : Mefi Gayus Marani\n" +
-                "Ofisial\t : Ahmad Sofyan\n" +
-                "Ofisial\t : Yogha Rasta Aditya C",
+        "Instagram\t : @NshBasketball",
 
-        "Manajer\t : Ade Nopriansyah\n" +
-                "Pelatih\t : R. Aries Herman M\n" +
-                "Assisten Pelatih\t : Moses Foresto\n" +
-                "Assisten Pelatih\t : Bayu Pramboro\n" +
-                "Ofisial\t : Bambang Susanto\n" +
-                "Ofisial\t : Soegiono Hartono\n" +
-                "Utilitas\t : Jimmy Indrata\n" +
-                "Utilitas\t : Kasjiono",
+        "Instagram\t : @Pacific.caesar\n" +
+                "Facebook\t : Pacific Caesar",
 
-        "Ketua Umum\t : Andiko Ardi Purnomo\n" +
-                "Sekretaris\t : Cyrus Harsaningtyas\n" +
-                "Manajer Umum\t : Fictor Gideon Roring\n" +
-                "Manajer\t : Nugroho Budi Cahyono\n" +
-                "Pelatih\t : Ocky Tamtelahitu\n" +
-                "Asisten Pelatih\t : Hermanto\n" +
-                "Asisten Pelatih\t : Yudhi Mardiansyah\n" +
-                "Utilitas\t : Agus Ryanto\n" +
-                "Ofisial\t : Brian Reggie Suwandy",
+        "Instagram\t : @Pelitajayabasketball",
 
-        "Manajer\t : Syarel Hasan\n" +
-                "Pelatih\t : Andre Yuwadi\n" +
-                "Asisten Pelatih\t : Andri Malay\n" +
-                "Asisten Pelatih\t : Muhammad Hosim\n" +
-                "Ofisial\t : Encep Farlan Sutara\n" +
-                "Ofisial\t : Ali Munandar\n" +
-                "Ofisial\t : Rizki Hamdani\n" +
-                "Dokter\t : dr.Alvin Wiraharja ,Sp.KO\n" +
+        "Instagram\t : @PrawiraBandung",
 
-        "Manajer Umum\t : Riska Natalia Dewi\n" +
-                "Kepala Pelatih\t : Milos Pejic \n" +
-                "Asisten Pelatih\t : Ismael\n" +
-                "Asisten Pelatih\t : Muhammad Gofar\n" +
-                "Asisten Pelatih\t : Abdurrachman\n" +
-                "Ofisial\t : Mohamad Tohirno\n" +
-                "Ofisial\t : Amriansyah Syetiawinanda\n" +
-                "Ofisial\t : Taufik",
+        "Instagram\t : @smpertamina\n" +
+                "Twitter\t\t\t : @SMPertamina\n" +
+                "Facebook\t : Satria Muda Pertamina",
 
-        "Manajer\t : Zaki Iskandar\n" +
-                "Pelatih\t : Efri Meldi\n" +
-                "Ofisial\t : Dodik Tri Purnomo",
+        "Instagram\t : @SWBasketball\n" +
+                "Twitter\t\t\t : @SWBasketball",
 
-        "Manajer\t : CESAR WILHELEM HARRY CHRISTIAN\n" +
-                "Pelatih\t : Jap Ricky Lesmana\n" +
-                "Asisten Pelatih\t : Anas Wahyudi\n" +
-                "Asisten Pelatih\t : Rizky\n" +
-                "Ofisial\t : Danny Mulya Kusuma\n" +
-                "Ofisial\t : Otay Tahyat\n" +
-                "Utilitas\t : Darsono\n" +
-                "Utilitas\t : Rivan Ardyan"
+        "Instagram\t : @westbandits\n"
     )
     private val teamProfiles = arrayOf(
         "Sejak berdiri tahun 1995, klub basket Hangtuah menjadi salah satu kekuatan yang tak bisa dianggap remeh di basket tanah air. Catatan prestasi di masa Kobatama, IBL era lama, NBL Indonesia, hingga IBL era baru cukup baik. Bahkan di era NBL Indonesia, Hangtuah selalu menjadi langganan tampil di Championship Series. Hanya saja langkah mereka terhenti saat berhadapan dengan kekuatan besar basket Indonesia seperti CLS Knights, Pelita Jaya, Aspac Jakarta bahkan Satria Muda.\n" +
@@ -147,7 +82,7 @@ object TeamsData {
                 "Alamat : Jl. Agro, Caturtunggal, Depok, Sleman, Yogyakarta",
 
         "Indonesia Patriots adalah Tim Nasional Indonesia yang akan berlaga di event Internasional mewakili negara Indonesia. Terdiri dari gabungan pemain-pemain muda  terbaik mewakili daerah dan klubnya ini dinamakan Patriots untuk mewakili kebanggaan sebagai bangsa pejuang. Patriots mempunyai hashtag #bawabangga yang diciptakan oleh salah satu fansnya, dengan filosofi sebagai berikut: \n" +
-                "Pregame: Putra putri terbaik bangsa yang dipilih membawa kebanggan untuk mewakili Indonesia berjuang demi prestasi bola basket tanah air",
+                "Pregame: Putra putri terbaik bangsa yang dipilih membawa kebanggaan untuk mewakili Indonesia berjuang demi prestasi bola basket tanah air",
 
         "Louvre Basketball Surabaya didirikan pada tahun 2019 sebagai salah satu klub pendatang baru di IBL (Indonesian Basketball League), yang merupakan liga basket tertinggi di Indonesia. Bermula dari dunia Esports, Louvre Esports yang lahir pada tahun 2017 terkenal sebagai tim tangguh Mobile Legend di tingkat Asia Tenggara dan juga memiliki tim PUBGM dan Free Fire di tingkat nasional yang selalu berada di posisi 3 besar.\n" +
                 "Pada tahun 2019, Louvre Esports resmi memiliki lisensi untuk bergabung di liga basket professional Indonesia dibawah PT. Louvre Esports Indonesia, Louvre mempunyai target di papan atas di setiap musimnya sesuai dengan visi misi organisasi Esports yang sudah mempunyai prestasi internasional.",
@@ -212,18 +147,17 @@ object TeamsData {
         R.drawable.prawira_bandung,
         R.drawable.satria_muda,
         R.drawable.satya_wacana,
-        R.drawable.west_bandits,
+        R.drawable.west_bandits
     )
-
     val listData: ArrayList<Teams>
         get() {
             val list = arrayListOf<Teams>()
             for (position in teamNames.indices) {
                 val teams = Teams()
                 teams.name = teamNames[position]
-                teams.management = teamManagement[position]
-                teams.profile = teamProfiles[position]
                 teams.photo = teamImages[position]
+                teams.sosmed = teamSosmed[position]
+                teams.profile = teamProfiles[position]
                 list.add(teams)
             }
             return list
