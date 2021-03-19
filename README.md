@@ -5,16 +5,16 @@ Repository course Dicoding Belajar Android Pemula (https://www.dicoding.com/acad
 Record an Android learning from Dicoding
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/screenshot-1616116691821.jpg"
+<img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1616116691821.jpg"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/screenshot-1616116732207.jpg"
+     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1616116732207.jpg"
      alt="Detail Screen"
      style="float: left; margin-right: 10px;"
-     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/screenshot-1616116753676.jpg"
+     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1616116753676.jpg"
      alt="Detail Screen with Notice"
      style="float: left; margin-right: 10px;"
-     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/screenshot-1616116770009.jpg"
+     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1616116770009.jpg"
      alt="About Screen"
      style="float: left; margin-right: 10px;"
      width="200" />
