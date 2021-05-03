@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.dicoding.iblteams">
 
     <application
@@ -9,15 +10,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.IBLTeams">
-        <activity android:name=".AboutMe"></activity>
-        <activity android:name=".ProfileTeams" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".SplashScreenActivity"
+            tools:ignore="ExtraText">
+            android:theme="@style/AppTheme.TranslucentStatusBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".AboutMe" />
+        <activity android:name=".ProfileTeams" />
+        <activity android:name=".MainActivity"/>
     </application>
 
 </manifest>
