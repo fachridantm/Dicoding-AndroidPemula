@@ -29,6 +29,7 @@ Record an Android learning from Dicoding
 - [x] Display images and information on the detail page
 - [x] Display page about
 - [x] Include button favorite and share with implicit intent
+- [x] Display splash screen
 
 ## Instalation
 Clone this repository and import into Android Studio
