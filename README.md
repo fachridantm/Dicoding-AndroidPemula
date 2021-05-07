@@ -5,7 +5,10 @@ Repository course Dicoding Belajar Android Pemula (https://www.dicoding.com/acad
 Record an Android learning from Dicoding
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1616116691821.jpg"
+<img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1620381537770.jpg"
+     alt="Splash Screen"
+     style="float: left; margin-right: 10px;"
+     width="200" /><img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1616116691821.jpg"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1616116732207.jpg"
@@ -24,12 +27,13 @@ Record an Android learning from Dicoding
 
  ## Features
 #### Submission Checklists
-- [x] Display images and information in the Format list
-- [x] A detail page appears when an item is clicked
-- [x] Display images and information on the detail page
+
 - [x] Display page about
-- [x] Include button favorite and share with implicit intent
 - [x] Display splash screen
+- [x] A detail page appears when an item is clicked
+- [x] Display images and information in the format list
+- [x] Display images and information on the detail page
+- [x] Include button favorite and share with implicit intent
 
 ## Instalation
 Clone this repository and import into Android Studio
