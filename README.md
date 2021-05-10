@@ -4,7 +4,7 @@ Repository course Dicoding Belajar Android Pemula (https://www.dicoding.com/acad
 ## Purpose
 Record an Android learning from Dicoding
 
-## Screenshots
+## Screenshots Final Submission
 <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1620381537770.jpg"
      alt="Splash Screen" 
      style="float: left; margin-right: 10px;"
@@ -26,7 +26,7 @@ Record an Android learning from Dicoding
      width="200" />
 
  ## Features
-#### Submission Checklists
+#### Final Submission Checklists
 
 - [x] Display page about
 - [x] Display splash screen
@@ -36,7 +36,7 @@ Record an Android learning from Dicoding
 - [x] Include button favorite and share with implicit intent
 
 ## Instalation
-Clone this repository and import into Android Studio
+Clone this repository and open folder IBL Teams into Android Studio
 ``````````````````````````````````````````````````````````
 https://github.com/fachridantm/Dicoding-AndroidPemula.git
 ``````````````````````````````````````````````````````````
