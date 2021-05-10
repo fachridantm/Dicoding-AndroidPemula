@@ -6,9 +6,9 @@ Record an Android learning from Dicoding
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1620381537770.jpg"
-     alt="Splash Screen"
+     alt="Splash Screen" 
      style="float: left; margin-right: 10px;"
-     width="200" /><img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1616116691821.jpg"
+     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1616116691821.jpg"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1616116732207.jpg"
