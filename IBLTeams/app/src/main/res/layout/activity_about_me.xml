@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="?attr/bgC"
     android:orientation="vertical"
     tools:context=".AboutMe">
 
@@ -20,7 +21,7 @@
         android:layout_height="wrap_content"
         android:text="@string/my_name"
         android:textAlignment="center"
-        android:textColor="@android:color/black"
+        android:textColor="?attr/tC"
         android:textSize="20sp"
         android:textStyle="bold" />
 
@@ -29,7 +30,7 @@
         android:layout_height="wrap_content"
         android:text="@string/my_email"
         android:textAlignment="center"
-        android:textColor="@android:color/black"
+        android:textColor="?attr/tC"
         android:textSize="17sp" />
 
 </LinearLayout>

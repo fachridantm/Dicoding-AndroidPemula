@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="?attr/bgC"
     android:orientation="vertical"
     tools:context=".ProfileTeams">
 
@@ -20,7 +22,7 @@
             android:layout_marginRight="@dimen/activity_horizontal_margin"
             android:layout_marginBottom="@dimen/activity_vertical_margin"
             android:text="@string/team_name"
-            android:textColor="@android:color/black"
+            android:textColor="?attr/tC"
             android:textSize="20sp"
             android:textStyle="bold" />
 
@@ -29,7 +31,8 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
             android:layout_marginRight="@dimen/activity_horizontal_margin"
-            android:layout_marginBottom="18dp">
+            android:layout_marginBottom="18dp"
+            app:cardBackgroundColor="?attr/cV">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -41,8 +44,8 @@
                     android:layout_width="150dp"
                     android:layout_height="150dp"
                     android:layout_marginEnd="@dimen/activity_horizontal_margin"
-                    android:src="@android:color/darker_gray"
-                    android:contentDescription="@string/logo_team" />
+                    android:contentDescription="@string/logo_team"
+                    android:src="@android:color/darker_gray" />
 
                 <TextView
                     android:id="@+id/tv_title_sosmed"
@@ -51,7 +54,7 @@
                     android:layout_marginBottom="@dimen/activity_vertical_margin"
                     android:layout_toEndOf="@+id/img_item_photo"
                     android:text="@string/team_sosmed"
-                    android:textColor="@android:color/black"
+                    android:textColor="?attr/tC"
                     android:textSize="14sp"
                     android:textStyle="bold" />
 
@@ -60,9 +63,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_below="@id/tv_title_sosmed"
-                    android:layout_toEndOf="@+id/img_item_photo"
                     android:layout_marginBottom="10dp"
-                    android:textColor="@android:color/black"
+                    android:layout_toEndOf="@+id/img_item_photo"
+                    android:textColor="?attr/tC"
                     tools:text="@string/sosmed_content" />
 
                 <Button
@@ -70,22 +73,24 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_below="@id/tv_item_sosmed"
-                    android:layout_marginStart="6dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_toStartOf="@+id/btn_set_favorite"
                     android:layout_toEndOf="@id/img_item_photo"
+                    android:background="@color/red"
                     android:text="@string/share"
-                    android:textSize="12sp"
-                    android:textColor="@color/white" />
+                    android:textColor="@color/white"
+                    android:textSize="12sp" />
 
                 <Button
                     android:id="@+id/btn_set_favorite"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_below="@+id/btn_set_share"
-                    android:layout_marginStart="6dp"
-                    android:layout_toEndOf="@id/img_item_photo"
+                    android:layout_below="@id/tv_item_sosmed"
+                    android:layout_alignParentEnd="true"
+                    android:background="@color/red"
                     android:text="@string/favorite"
-                    android:textSize="12sp"
-                    android:textColor="@color/white" />
+                    android:textColor="@color/white"
+                    android:textSize="12sp" />
             </RelativeLayout>
         </androidx.cardview.widget.CardView>
 
@@ -97,7 +102,7 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:orientation="vertical">
 
                 <TextView
@@ -108,7 +113,7 @@
                     android:layout_marginRight="@dimen/activity_horizontal_margin"
                     android:layout_marginBottom="5dp"
                     android:text="@string/team_profile"
-                    android:textColor="@android:color/black"
+                    android:textColor="?attr/tC"
                     android:textSize="16sp"
                     android:textStyle="bold" />
 
@@ -122,7 +127,7 @@
                     android:layout_marginBottom="10dp"
                     android:justificationMode="inter_word"
                     android:text="@string/profile_content"
-                    android:textColor="@android:color/black"
+                    android:textColor="?attr/tC"
                     tools:targetApi="o" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
