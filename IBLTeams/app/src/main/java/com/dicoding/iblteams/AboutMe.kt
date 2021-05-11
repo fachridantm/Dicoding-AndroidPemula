@@ -21,6 +21,7 @@ class AboutMe : AppCompatActivity() {
         }
 
         supportActionBar?.title = title
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         val imgMe: ImageView = findViewById(R.id.img_item_photo)
         val tImg = R.drawable.fachri

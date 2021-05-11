@@ -33,6 +33,7 @@ class ProfileTeams : AppCompatActivity() {
         }
 
         supportActionBar?.title = title
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         val tvSetName: TextView = findViewById(R.id.tv_item_name)
         val imgPhoto: ImageView = findViewById(R.id.img_item_photo)
