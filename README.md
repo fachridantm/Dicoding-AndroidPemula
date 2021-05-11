@@ -37,7 +37,7 @@ Record an Android learning from Dicoding
 - [x] Include button favorite and share with implicit intent
 
 ## Instalation
-Clone this repository and open folder IBLTeams into Android Studio
+Clone this repository and open folder IBLTeams into Android Studio then run the project
 ``````````````````````````````````````````````````````````
 https://github.com/fachridantm/Dicoding-AndroidPemula.git
 ``````````````````````````````````````````````````````````
