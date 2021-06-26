@@ -2,7 +2,7 @@
 Repository course Dicoding Belajar Android Pemula (https://www.dicoding.com/academies/51)
 
 ## Purpose
-Record an Android learning from Dicoding
+Record Course of Belajar Android Pemula from Dicoding
 
 ## Screenshots Final Submission
 <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1620381537770.jpg"
