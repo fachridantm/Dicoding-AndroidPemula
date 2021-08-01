@@ -1,5 +1,5 @@
 # Dicoding-AndroidPemula
-Repository course Dicoding Belajar Android Pemula (https://www.dicoding.com/academies/51)
+Repository for Documentations Dicoding - Belajar Android Pemula (https://www.dicoding.com/academies/51)
 
 ## Purpose
 Record Project Belajar Android Pemula from Dicoding
