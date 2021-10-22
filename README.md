@@ -1,8 +1,8 @@
 # Dicoding-AndroidPemula
-Repository for Documentations [Dicoding - Belajar Android Pemula](https://www.dicoding.com/academies/51)
+Repository for Documentations [Dicoding - Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51)
 
 ## Purpose
-Record Project Belajar Android Pemula from Dicoding
+Record Project Belajar Membuat Aplikasi Android untuk Pemula from [Dicoding Indonesia](https://www.dicoding.com/)
 
 ## Screenshots Final Submission
 <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1620381537770.jpg"
