@@ -6,7 +6,8 @@ Record Project Belajar Membuat Aplikasi Android untuk Pemula from [Dicoding Indo
 
 ## Screenshots Final Submission
 ![Group 1](https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/Group-1.png)&nbsp;
-![Group 2](https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/Group-2.png)
+![Group 2](https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/Group-2.png)&nbsp;
+![Group 3](https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/Group-3.png)&nbsp;
 
 
  ## Features
