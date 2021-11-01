@@ -5,23 +5,23 @@ Repository for Documentations [Dicoding - Belajar Membuat Aplikasi Android untuk
 Record Project Belajar Membuat Aplikasi Android untuk Pemula from [Dicoding Indonesia](https://www.dicoding.com/)
 
 ## Screenshots Final Submission
-<img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1620381537770.jpg"
+<img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/Android-7/screenshot-1620381537770.jpg"
      alt="Splash Screen" 
      style="float: left; margin-right: 10px;"
-     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1616116691821.jpg"
+     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/Android-7/screenshot-1616116691821.jpg"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1616116732207.jpg"
+     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/Android-7/screenshot-1616116732207.jpg"
      alt="Detail Screen"
      style="float: left; margin-right: 10px;"
      width="200" />  
-     <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1616116753676.jpg"
+     <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/Android-7/screenshot-1616116753676.jpg"
      alt="Detail Screen with Favorite"
      style="float: left; margin-right: 10px;"
-     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1616143112478.jpg"
+     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/Android-7/screenshot-1616143112478.jpg"
      alt="Detail Screen with Share"
      style="float: left; margin-right: 10px;"
-     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/screenshot-1616116770009.jpg"
+     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Dicoding-AndroidPemula/main/IBLTeams/app/screenshots/Android-7/screenshot-1616116770009.jpg"
      alt="About Screen"
      style="float: left; margin-right: 10px;"
      width="200" />
