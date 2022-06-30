@@ -22,7 +22,7 @@ Record Project Belajar Membuat Aplikasi Android untuk Pemula from [Dicoding Indo
 - [x] Include button favorite and share with implicit intent
 
 ## Installation
-Download and install beta app [here](https://github.com/fachridantm/Dicoding-AndroidPemula/releases/download/v.1.0-beta/app-debug.apk)
+Download and install beta version [here](https://github.com/fachridantm/Dicoding-AndroidPemula/releases/download/v.1.0-beta/app-debug.apk)
 
 ## Author
 * #### Fachridan Tio Mu'afa
